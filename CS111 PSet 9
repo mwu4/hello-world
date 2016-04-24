@@ -1,7 +1,7 @@
 # googlebooks_search.py
 # Purpose: Use the Google Books API to return info about books, based on the
 # user request.
-# Authors: YOUR NAMES
+# Authors: Minjia WU and Emma POSTEL
 # Date:
 
 """
